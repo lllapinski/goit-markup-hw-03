@@ -1,0 +1,202 @@
+body{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+
+}
+:root { --add-color:#4d5ae5}
+:root {--main-color:#2e2f42}
+:root{--link-color:#434455}
+:root{--background-color:#2e2f42}
+
+
+.logo{
+    font-family: 'Raleway', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: var(--add-color);
+}
+.studio-span{color: var(--main-color);}
+.list{list-style: none}
+.link{ text-decoration: none}
+.header {}
+
+.header-nav {}
+
+.header-list-nav {}
+
+.hov:hover :focus{color:#404bbf}
+
+
+
+.links-nav {
+font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+     letter-spacing: 0.02em;
+ color: #2E2F42;}
+ .links-nav:hover{color:#404bbf}
+ .links-nav:focus{color: #404bbf}
+
+.adress {font-style: normal}
+.adress-list{
+
+}
+.list-adress {}
+
+.adress-item {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+     letter-spacing: 0.02em;
+     color: #434455;}
+
+     .adress-link:hover{color: #404bbf}
+     .adress-link:focus{color: #404bbf}
+         
+     .adress-link{color: var(--link-color);}
+
+     /* SECTION ONE */
+         .solutions {background-color: var(--background-color);}
+    
+         .solutions-title {font-weight: 700;
+            font-size: 56px;
+            line-height: 1.07;text-align: center;
+            letter-spacing: 0.02em;color: #FFFFFF;}
+    
+         .solutions-btn {font-family: "Roboto", sans-serif;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 1.5; display: flex;
+            align-items: center;
+            letter-spacing: 0.04em;
+            cursor: pointer;
+             color: #FFFFFF;}
+
+/* SECTION TWO */
+
+.advantages-main-title {}
+            
+.hidden {}
+            
+.advantages-list {}
+            
+.list {}
+            
+.advantages-list-item {}
+            
+.advantages-title {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+     letter-spacing: 0.02em;
+    color: #2E2F42;}
+            
+ .advantages-text {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+     letter-spacing: 0.02em;
+    color: #434455;}
+
+    /* SECTION THREE */
+    .tasks-title{
+        font-weight: 700;
+            font-size: 36px;
+            line-height: 1.11;
+           text-align: center;
+            letter-spacing: 0.02em;
+            text-transform: capitalize;
+         color: #2E2F42;
+    }
+        .tasks {}
+    
+        .tasks-list {}
+    
+        .tasks-list-item {}
+    
+        .tasks-img {}
+
+        /*  SECTION FOUR*/
+   .team {}
+
+   .team-main-title {font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+color: #2E2F42;}
+
+   .team-list {}
+
+   .team-list-item {}
+
+   .team-img {}
+
+   .team-item {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+   
+    text-align: center;
+    letter-spacing: 0.02em;
+ color: #2E2F42;}
+
+   .team-text {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.02em;
+ color: #434455;}
+ /* FOOTER */
+ .footer {background-color: var(--background-color);}
+
+ .fotter-link {}
+
+ .fotter-text {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+   
+    letter-spacing: 0.02em;
+  color: #F4F4FD;}
+  .sspan{color: #f4f4fd}
+
+
+
+  /* portfolio */
+  /* SECTION */
+  .list {list-style: none}
+
+  .btn {font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+   display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+ color:var(--add-color);}
+
+ /* section img */
+ .images {}
+
+ .images-list {}
+
+ .images-img {}
+
+ .images-title {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+ color: #2E2F42;}
+
+ .images-text {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+ color: #434455;}
+ .link{text-decoration: none}
