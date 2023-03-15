@@ -40,7 +40,7 @@ img{display: block;}
         text-transform: uppercase;
         color: var(--add-color);
         padding-left: 0px;
-        margin-right: 76px;
+       
 }
 .studio-span
 {color: var(--main-color);}
@@ -74,17 +74,15 @@ background-color:FFFFFF;}
 display: flex;
 gap: 40px;}
 .header-container
-{display: flex;
-align-items: center;
-justify-content: space-between;}
+{display: flex;}
 .header-list-nav {
-   margin-right: 40px;
+ display: flex;
 }
 .adress
-{margin-left: auto;
-   display: flex;
+{
+  
    color: var(--link-color);
-gap: 40px;}
+}
 
 .hov:hover :focus
 {color:#404bbf}
@@ -112,7 +110,13 @@ font-weight: 500;
 
 }
 
-.list-adress {}
+.list-adress {
+   margin-left: auto;
+   display: flex;
+   color: var(--link-color);
+   gap: 40px;
+   
+}
 
 .adress-item{
    font-weight: 400;
