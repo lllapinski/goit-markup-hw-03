@@ -62,7 +62,8 @@ img{display: block;}
 }
 .head-container
 {display: flex;
-text-align: center;}
+text-align: center;
+border-bottom: 1px solid #E7E9FC;}
 .header 
 { padding-top: 24px;
    padding-bottom: 24px;
@@ -362,6 +363,7 @@ gap: 24px;
  .images {display: flex;
 justify-content:space-between;
 gap: 24px;
+margin-bottom: 48px;
 }
 
  .images-list {display: flex;
@@ -386,7 +388,10 @@ padding-top: 32px;
 padding-bottom: 32px;
 background: #FFFFFF;
  
-   border: 1px solid #E7E9FC;
+   
+   border-bottom: 1px solid #E7E9FC;
+   border-left: 1px solid #E7E9FC;
+   border-right: 1px solid #E7E9FC;
  }
 
 
