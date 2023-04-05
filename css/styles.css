@@ -385,12 +385,12 @@ img {
 .images-list {
   display: flex;
   justify-content: space-between;
-}
+/* }
 .buttons-cont {
   display: flex;
   margin-bottom: 72px;
   padding-top: 96px;
-}
+} */
 .btn {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
