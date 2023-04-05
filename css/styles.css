@@ -385,6 +385,7 @@ img {
 .images-list {
   display: flex;
   justify-content: space-between;
+}
 /* }
 .buttons-cont {
   display: flex;
